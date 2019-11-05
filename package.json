@@ -1,0 +1,27 @@
+{
+  "name": "ngrock-file-sharing",
+  "version": "1.0.0",
+  "description": "Share your files easily with ngrock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turinglabsorg/ngrock-file-sharing.git"
+  },
+  "author": "turinglabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turinglabsorg/ngrock-file-sharing/issues"
+  },
+  "homepage": "https://github.com/turinglabsorg/ngrock-file-sharing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
